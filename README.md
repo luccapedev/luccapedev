@@ -6,7 +6,7 @@ I'm always looking for opportunities to grow, learn new technologies, and contri
 
 My goal is to evolve as a developer while creating clean, efficient, and well-structured software.
 
-<h2 align="center">🚀 Frontend</h2>
+<h2 align="center">💻 Frontend</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
@@ -15,19 +15,19 @@ My goal is to evolve as a developer while creating clean, efficient, and well-st
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
 </p>
 
-<h2 align="center">🚀 Backend</h2>
+<h2 align="center">🖥️ Backend</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
 </p>
 
-<h2 align="center">🚀 Banco de dados</h2>
+<h2 align="center">🗄️ Databases</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 </p>
 
-<h2 align="center">🚀 IDE / Versionamento</h2>
+<h2 align="center">🛠️ IDE / Version Control</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45"/>
