@@ -1,9 +1,10 @@
-# Hi, I'm Lucca Pedroza 👋
+# Hi, I'm Lucca Pedroza 🦇
 
 I'm a software developer focused on continuously improving my skills and building meaningful solutions.
-I’m always looking for opportunities to grow, learn new technologies, and contribute to impactful projects.
 
-My goal is to keep evolving as a developer while creating clean, efficient, and well-structured software.
+I'm always looking for opportunities to grow, learn new technologies, and contribute to impactful projects.
+
+My goal is to evolve as a developer while creating clean, efficient, and well-structured software.
 
 ## 🚀 Tech Stack
 
@@ -17,8 +18,15 @@ My goal is to keep evolving as a developer while creating clean, efficient, and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccapedev&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=luccapedev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccapedev&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccapedev&layout=compact&theme=tokyonight)
+## 🐍 Contribution Snake
 
-![GitHub Streak](https://streak-stats.demolab.com?user=luccapedev&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luccapedev/luccapedev/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/luccapedev/luccapedev/blob/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/luccapedev/luccapedev/blob/output/github-snake.svg">
+</picture>
