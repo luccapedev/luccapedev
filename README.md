@@ -1,20 +1,19 @@
-# Hi, I'm Lucca Pedroza 🦇
+# Hi, I'm Lucca Pedroza ⚡
 
 I'm a software developer focused on continuously improving my skills and building meaningful solutions.
-
 I'm always looking for opportunities to grow, learn new technologies, and contribute to impactful projects.
-
 My goal is to evolve as a developer while creating clean, efficient, and well-structured software.
 
 ## 🚀 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-JavaServer%20Faces-red?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -22,8 +21,6 @@ My goal is to evolve as a developer while creating clean, efficient, and well-st
   <img src="https://streak-stats.demolab.com?user=luccapedev&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccapedev&layout=compact&theme=tokyonight" />
 </p>
-
-## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luccapedev/luccapedev/blob/output/github-snake-dark.svg">
