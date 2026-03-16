@@ -1,6 +1,6 @@
 # Hi, I'm Lucca Pedroza ⚡
 
-I'm a software developer focused on continuously improving my skills and building meaningful solutions.
+I'm a software developer focused on continuously improving my skills and building meaningful solutions. 
 
 I'm always looking for opportunities to grow, learn new technologies, and contribute to impactful projects.
 
