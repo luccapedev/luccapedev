@@ -35,7 +35,7 @@ My goal is to evolve as a developer while creating clean, efficient, and well-st
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luccapedev&theme=tokyonight" />
