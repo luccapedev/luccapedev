@@ -39,7 +39,6 @@ My goal is to evolve as a developer while creating clean, efficient, and well-st
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luccapedev&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccapedev&layout=compact&theme=tokyonight" />
 </p>
 
 <picture>
