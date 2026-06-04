@@ -1,10 +1,6 @@
-# Hi, I'm Lucca Pedroza ⚡
-
-I'm a software developer focused on continuously improving my skills and building meaningful solutions. 
-
-I'm always looking for opportunities to grow, learn new technologies, and contribute to impactful projects.
-
-My goal is to evolve as a developer while creating clean, efficient, and well-structured software.
+<div align="center">
+  <img src=".github/assets/GithubBanner.png" width="100%" />
+</div>
 
 <h2 align="center">💻 Frontend</h2>
 <p align="center">
