@@ -7,8 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=B0B0B0&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Development+Analyst;Java+%7C+Spring+Boot+%7C+React;Designing+Software+That+Scales" />
 </div>
 
-<br>
-
 <h2 align="center">⌈ FRONTEND ⌋</h2>
 
 <p align="center">
