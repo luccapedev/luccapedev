@@ -9,11 +9,7 @@
 
 <br>
 
-<h2 align="center">
-  <span style="color:#FFFFFF;">⌈</span>
-  <span style="color:#B8B8B8;"> FRONTEND </span>
-  <span style="color:#FFFFFF;">⌋</span>
-</h2>
+<h2 align="center">⌈ FRONTEND ⌋</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
@@ -53,6 +49,10 @@
 <h2 align="center">⌈ GITHUB STATS ⌋</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luccapedev&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luccapedev&theme=github_dark&utcOffset=-3&v=1" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luccapedev&theme=github_dark" />
 </p>
 
