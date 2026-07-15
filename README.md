@@ -43,33 +43,6 @@
 <br>
 
 <div align="center">
-
-<h2 align="center">⌈ GITHUB STATS ⌋</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=luccapedev&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luccapedev&theme=github_dark&utcOffset=-3&v=1" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luccapedev&theme=github_dark" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luccapedev&theme=github_dark" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luccapedev&theme=github_dark" />   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luccapedev&theme=github_dark" />
-</p>
-
-<br>
-
-<div align="center">
 <h3>⌈ CONTACTS ⌋</h3>
 
 <a href="https://www.linkedin.com/in/lucca-pedroza-8a4569220/" target="_blank">
@@ -84,6 +57,12 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=luccapedev&theme=github_dark" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luccapedev/luccapedev/blob/output/github-snake-dark.svg">
